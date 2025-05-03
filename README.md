@@ -1,18 +1,17 @@
-
 # Hi 👋, I'm Ahmed Mostafa Attia
 
 🎓 **AI, ML & Data Science Engineer** with a strong background in mathematics, statistics, and programming.
 
 - 🔭 I’m currently working on:
-  - **Examination System**: Fine-tuned LLaMA3 model for grading exams (with SWIFT ACT)
-  - **Multi-Agent Event Manager**: Crew-AI with GPT-3.5, Claude, Mistral
-  - **YouTube Notes Generator**: Built using Gemini-1.5-Pro/Flash
+  - 📊 Building ML models from scratch using core statistical concepts
+  - 🧠 Developing AI agents using frameworks like CrewAI and LangChain
+  - 👁️‍🗨️ Computer Vision projects leveraging transformers for object detection and image understanding
 
-- 🤝 I’m looking to collaborate on AI/ML projects, especially in NLP and recommendation systems.
-- 🌱 I’m currently learning: Deployment tools, advanced agentic workflows, and model interpretability.
-- 💬 Ask me about: NLP, ML, Deep Learning, LangChain, Streamlit, LLaMA3, Gemini, CrewAI.
-- 📫 How to reach me: ahmed.mostafa.attiaaa@gmail.com
-- 👨‍💻 Portfolio: [Data Science Portfolio](https://www.datascienceportfol.io/ahmedmostafaattiaaa)
+- 🤝 I’m looking to collaborate on AI/ML projects, especially in NLP and recommendation systems.  
+- 🌱 I’m currently learning: Deployment tools, advanced agentic workflows, and model interpretability.  
+- 💬 Ask me about: NLP, ML, Deep Learning, LangChain, Streamlit, LLaMA3, Gemini, CrewAI.  
+- 📫 How to reach me: ahmed.mostafa.attiaaa@gmail.com  
+- 👨‍💻 Portfolio: [Data Science Portfolio](https://www.datascienceportfol.io/ahmedmostafaattiaaa)  
 - 📄 Know more about my experiences: [Resume](https://github.com/AhmedMostafaAttiaaa)
 
 ## 🛠️ Skills
@@ -33,5 +32,5 @@
 
 ## 📬 Social
 
-- [LinkedIn](https://linkedin.com/in/ahmed-mostafa-2110341a4)
+- [LinkedIn](https://linkedin.com/in/ahmed-mostafa-2110341a4)  
 - [GitHub](https://github.com/AhmedMostafaAttiaaa)
