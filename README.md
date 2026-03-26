@@ -1,36 +1,56 @@
-# Hi 👋, I'm Ahmed Mostafa Attia
+# Ahmed Mostafa Attia
 
-🎓 **AI, ML & Data Science Engineer** with a strong background in mathematics, statistics, and programming.
 
-- 🔭 I’m currently working on:
-  - 📊 Building ML models from scratch using core statistical concepts
-  - 🧠 Developing AI agents using frameworks like CrewAI and LangChain
-  - 👁️‍🗨️ Computer Vision projects leveraging transformers for object detection and image understanding
+---
 
-- 🤝 I’m looking to collaborate on AI/ML projects, especially in NLP and recommendation systems.  
-- 🌱 I’m currently learning: Deployment tools, advanced agentic workflows, and model interpretability.  
-- 💬 Ask me about: NLP, ML, Deep Learning, LangChain, Streamlit, LLaMA3, Gemini, CrewAI.  
-- 📫 How to reach me: ahmed.mostafa.attiaaa@gmail.com  
-- 👨‍💻 Portfolio: [Data Science Portfolio](https://www.datascienceportfol.io/ahmedmostafaattiaaa)  
-- 📄 Know more about my experiences: [Resume](https://github.com/AhmedMostafaAttiaaa)
+### Professional Overview
 
-## 🛠️ Skills
+- Currently focusing on Architecting Multi-Agent AI systems and advanced RAG frameworks.
+- Expert in developing local-first AI solutions ensuring privacy and cost-optimization.
+- Solid background in Data Engineering, MLOps, and scalable data pipelines.
+- Passionate about bridging the gap between complex mathematical concepts and real-world AI applications.
 
-**Languages:** Python, C, C++  
-**ML/DL:** Regression, SVM, Random Forest, CNN, RNN, Transfer Learning  
-**Math:** Probability, Statistics, Linear Algebra  
-**Big Data & DB:** PySpark, SQL, NoSQL, MongoDB, Power BI  
-**Libraries:** Scikit-learn, Pandas, NumPy, TensorFlow, LangChain, Streamlit  
-**Concepts:** Data Analysis, Feature Engineering, Image Processing, Agile, Git
+---
 
-## 📜 Certifications
+### Core Expertise
 
-- AWS Academy Machine Learning Foundations  
-- AWS Academy Cloud Foundations  
-- AWS Machine Learning for NLP  
-- Omdena Innovation Badge  
+- **Generative AI & LLMs:** Agentic Workflows (CrewAI, LangGraph), Fine-tuning (LoRA), and RAG Optimization.
+- **Machine Learning & Stats:** Statistical Evaluation, Predictive Modeling, and Feature Engineering.
+- **Computer Vision:** Multimodal models, OCR systems (VLLMs, PaddleOCR), and Object Tracking.
+- **Data Engineering:** ETL pipelines, Apache Airflow, PySpark, and Web Scraping.
+- **Deployment:** Containerization (Docker), Cloud Infrastructure (AWS, GCP), and API development (FastAPI).
 
-## 📬 Social
+---
 
-- [LinkedIn](https://linkedin.com/in/ahmed-mostafa-2110341a4)  
-- [GitHub](https://github.com/AhmedMostafaAttiaaa)
+### Featured Work
+
+- **Adaptive AI Agent System:** A multi-agent framework for automated research and analysis using Gemini and DeepSeek.
+- **ChatWithYourDocs-LocalAI:** A privacy-focused RAG application for local document intelligence.
+- **Multimodal Image & Code Gen:** Combining LLaVA and DeepSeek for real-time vision-to-code tasks.
+- **Examination AI:** Fine-tuned LLaMA3 system for automated and accurate grading assessments.
+
+---
+
+### Technical Toolkit
+
+- **Languages:** Python, SQL, C++, C.
+- **Frameworks:** LangChain, TensorFlow, PyTorch, Scikit-learn.
+- **Data Ops:** Docker, Airflow, Git, FastAPI, Streamlit, Gradio.
+- **Databases:** PostgreSQL, MongoDB, Pinecone, Milvus.
+
+---
+
+### Certifications
+
+- Multi AI Agent Systems with CrewAI.
+- AWS Academy: Machine Learning Foundations & NLP.
+- AWS Academy: Cloud Foundations.
+- Omdena Innovation Badge.
+
+---
+
+### Reach Out
+
+- Email: ahmed.mostafa.attiaaa@gmail.com
+- LinkedIn: [Ahmed Mostafa Attia](https://www.linkedin.com/in/ahmed-mostafa-attia-2110341a4/)
+- Portfolio: [Data Science Portfolio](https://www.datascienceportfol.io/ahmedmostafaattiaaa)
