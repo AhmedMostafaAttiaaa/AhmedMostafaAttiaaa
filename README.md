@@ -40,14 +40,6 @@
 
 ---
 
-### Certifications
-
-- Multi AI Agent Systems with CrewAI.
-- AWS Academy: Machine Learning Foundations & NLP.
-- AWS Academy: Cloud Foundations.
-- Omdena Innovation Badge.
-
----
 
 ### Reach Out
 
