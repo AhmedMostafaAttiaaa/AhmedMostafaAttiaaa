@@ -1,48 +1,27 @@
 # Ahmed Mostafa Attia
 
+SW-Engineer focused on building practical systems more than talking about them.
 
----
+Background in Data Engineering, Machine Learning, and MLOps with experience building local-first AI applications, multi-agent workflows, and RAG systems. Most of my work revolves around making models reliable, scalable, and actually useful in real-world environments.
 
-### Professional Overview
+Interested in:
+- Multi-Agent AI Systems
+- RAG & Local LLMs
+- Computer Vision
+- Data Pipelines & Automation
+- ML Infrastructure
 
-- Currently focusing on Architecting Multi-Agent AI systems and advanced RAG frameworks.
-- Expert in developing local-first AI solutions ensuring privacy and cost-optimization.
-- Solid background in Data Engineering, MLOps, and scalable data pipelines.
-- Passionate about bridging the gap between complex mathematical concepts and real-world AI applications.
+Usually working with:
+`Python` `PyTorch` `LangChain` `FastAPI` `Docker` `Airflow`
 
----
+Built systems for:
+- automated research workflows
+- local document intelligence
+- multimodal AI pipelines
+- AI-based examination and grading
 
-### Core Expertise
+I prefer simple solutions, clean architecture, and systems that can run without unnecessary complexity.
 
-- **Generative AI & LLMs:** Agentic Workflows (CrewAI, LangGraph), Fine-tuning (LoRA), and RAG Optimization.
-- **Machine Learning & Stats:** Statistical Evaluation, Predictive Modeling, and Feature Engineering.
-- **Computer Vision:** Multimodal models, OCR systems (VLLMs, PaddleOCR), and Object Tracking.
-- **Data Engineering:** ETL pipelines, Apache Airflow, PySpark, and Web Scraping.
-- **Deployment:** Containerization (Docker), Cloud Infrastructure (AWS, GCP), and API development (FastAPI).
-
----
-
-### Featured Work
-
-- **Adaptive AI Agent System:** A multi-agent framework for automated research and analysis using Gemini and DeepSeek.
-- **ChatWithYourDocs-LocalAI:** A privacy-focused RAG application for local document intelligence.
-- **Multimodal Image & Code Gen:** Combining LLaVA and DeepSeek for real-time vision-to-code tasks.
-- **Examination AI:** Fine-tuned LLaMA3 system for automated and accurate grading assessments.
-
----
-
-### Technical Toolkit
-
-- **Languages:** Python, SQL, C++, C.
-- **Frameworks:** LangChain, TensorFlow, PyTorch, Scikit-learn.
-- **Data Ops:** Docker, Airflow, Git, FastAPI, Streamlit, Gradio.
-- **Databases:** PostgreSQL, MongoDB, Pinecone, Milvus.
-
----
-
-
-### Reach Out
-
-- Email: ahmed.mostafa.attiaaa@gmail.com
-- LinkedIn: [Ahmed Mostafa Attia](https://www.linkedin.com/in/ahmed-mostafa-attia-2110341a4/)
-- Portfolio: [Data Science Portfolio](https://www.datascienceportfol.io/ahmedmostafaattiaaa)
+Links:
+- LinkedIn: https://www.linkedin.com/in/ahmed-mostafa-attia-2110341a4/
+- Portfolio: https://www.datascienceportfol.io/ahmedmostafaattiaaa
